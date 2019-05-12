@@ -1,0 +1,17 @@
+[core]
+	editor = nano
+	pager = less -R
+	excludesfile = ~/.gitignore
+
+[color]
+	ui = auto
+
+[github]
+	user = 51114u9
+
+[alias]
+	g = grep -p
+	###########
+	l = log --oneline
+	lg = log --oneline --graph --decorate
+	###########

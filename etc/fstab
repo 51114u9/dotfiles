@@ -1,0 +1,7 @@
+/dev/sda3        swap             swap        defaults         0   0
+/dev/sda2        /                ext4        defaults         1   1
+/dev/sdb1        /boot/efi        vfat        defaults         1   0
+devpts           /dev/pts         devpts      gid=5,mode=620   0   0
+proc             /proc            proc        defaults         0   0
+tmpfs            /dev/shm         tmpfs       defaults         0   0
+/dev/sda4        /media/data      ntfs-3g     uid=1000,gid=100 0   2
