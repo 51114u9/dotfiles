@@ -1,6 +1,6 @@
 # websites
 
-Extract the theme in ~/.local/share/themes
+Extract the theme in ~/.themes
 System wide installation in /user/share/themes
 
 Please, update gtk-update-icon-cache!
@@ -25,12 +25,5 @@ adwaita
 
 # themes
 
-*adapta-nokto
 adwaita-dark
-arc-red
-arc-red-dark
-arc-red-darker
-axiomd
-buble-dark-blue
 flat-remix-gtk-green-darker
-zuki*
